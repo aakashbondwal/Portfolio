@@ -3,7 +3,20 @@ Hi! I'm a self-taught iOS Developer with expertise in Swift and SwiftUl, I am lo
 
 ## Skills
 My technical competencies encompass a diverse range of languages, frameworks, and tools:
-Languages: Swift,  Frameworks & Libraries: SwiftUl, UlKit Database & Industry Tools: Firebase, CloudKit, Core Data Tools & Software: Figma, Postman, React Native
+
+* SWIFT
+* SWIFT UI
+* XCODE
+* COMBINE
+* WEATHER KIT
+* USER NOTIFICATIONS
+* API INTEGRATION
+* VERSION CONTROL
+* GIT
+* SWIFT DATA
+* SPRITEKIT
+* OBJECT ORIENTED PROGRAMMING
+* DESIGN PATTERNS (MVVM)
 
 ## My Work
 # [Space News & Reports](https://apps.apple.com/in/app/space-news-reports/id6475634079)
@@ -14,10 +27,10 @@ Embark on a thrilling journey through the cosmos with our cutting-edge app desig
 ## Sneak Peek 👀
 
 <p align="center">
-  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d26e2525-5b46-4814-ad01-b2141f3a4fcf", width="200"/>
-  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/142c72ae-ffa2-4759-9c47-fc6d65d91316", width="200"/>
-  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
-  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/SpaceNewsImage/1.png", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/SpaceNewsImage/2.png", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/SpaceNewsImage/3.png", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/SpaceNewsImage/4.png", width="200"/>
 </p>
 
 
@@ -28,30 +41,7 @@ Embark on a thrilling journey through the cosmos with our cutting-edge app desig
 - Combine
 - Animations
 
-
-# [Diary Ease](https://apps.apple.com/in/app/diary-ease/id6475321698)
-[`📲 Available on the App Store`](https://apps.apple.com/in/app/diary-ease/id6475321698)
-
-Experience the unparalleled ease of capturing your thoughts with DiaryEase, a fast and user-friendly diary app designed for seamless journaling. Experience the unparalleled ease of capturing your thoughts with DiaryEase, a fast and user-friendly diary app designed for seamless journaling. 
-
-## Sneak Peek 👀
-
-<p align="center">
-  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d26e2525-5b46-4814-ad01-b2141f3a4fcf", width="200"/>
-  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/142c72ae-ffa2-4759-9c47-fc6d65d91316", width="200"/>
-  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
-  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
-</p>
-
-
-**Tech Used**
-- Swift
-- SwiftUI
-- AppLock
-- SwiftData
-- Animations
-
-- 
+  
 # [Climate Eye](https://apps.apple.com/in/app/climateeye/id6470154608)
 [`📲 Available on the App Store`](https://apps.apple.com/in/app/climateeye/id6470154608)
 
@@ -60,10 +50,10 @@ Elevate your weather experience with Climate Eye, your window to the world's cli
 ## Sneak Peek 👀
 
 <p align="center">
-  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d26e2525-5b46-4814-ad01-b2141f3a4fcf", width="200"/>
-  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/142c72ae-ffa2-4759-9c47-fc6d65d91316", width="200"/>
-  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
-  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/ClimateEyeImages/1.png", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/ClimateEyeImages/2.png", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/ClimateEyeImages/3.png", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/ClimateEyeImages/4.png", width="200"/>
 </p>
 
 
@@ -75,4 +65,28 @@ Elevate your weather experience with Climate Eye, your window to the world's cli
 - Push Notifications
 - API Integration
 - Animations
+
+
+# [Diary Ease](https://apps.apple.com/in/app/diary-ease/id6475321698)
+[`📲 Available on the App Store`](https://apps.apple.com/in/app/diary-ease/id6475321698)
+
+Experience the unparalleled ease of capturing your thoughts with DiaryEase, a fast and user-friendly diary app designed for seamless journaling. Experience the unparalleled ease of capturing your thoughts with DiaryEase, a fast and user-friendly diary app designed for seamless journaling. 
+
+## Sneak Peek 👀
+
+<p align="center">
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/DiaryEaseImage/1.png", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/DiaryEaseImage/2.png", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/DiaryEaseImage/3.png", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/DiaryEaseImage/4.png", width="200"/>
+</p>
+
+
+**Tech Used**
+- Swift
+- SwiftUI
+- AppLock
+- SwiftData
+- Animations
+
 
