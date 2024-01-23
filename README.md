@@ -1,4 +1,4 @@
-<a href="" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:aakashbondwal4@gmail.com"><img src="https://img.shields.io/badge/Email-aakashbondwal4-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aakashbondwal" target="_blank"><img src="https://img.shields.io/badge/linkedin-aakashbondwal-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/aakash_bondwal" target="_blank"><img src="https://img.shields.io/badge/twitter-aakash_bondwal-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/Resume.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:aakashbondwal4@gmail.com"><img src="https://img.shields.io/badge/Email-aakashbondwal4-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aakashbondwal" target="_blank"><img src="https://img.shields.io/badge/linkedin-aakashbondwal-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/aakash_bondwal" target="_blank"><img src="https://img.shields.io/badge/twitter-aakash_bondwal-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
 ## About Me
@@ -7,19 +7,7 @@ Hi! I'm a self-taught iOS Developer with expertise in Swift and SwiftUl, I am lo
 ## Skills
 My technical competencies encompass a diverse range of languages, frameworks, and tools:
 
-* SWIFT
-* SWIFT UI
-* XCODE
-* COMBINE
-* WEATHER KIT
-* USER NOTIFICATIONS
-* API INTEGRATION
-* VERSION CONTROL
-* GIT
-* SWIFT DATA
-* SPRITEKIT
-* OBJECT ORIENTED PROGRAMMING
-* DESIGN PATTERNS (MVVM)
+* SWIFT * SWIFT UI * XCODE * COMBINE * WEATHER KIT * USER NOTIFICATIONS * API INTEGRATION * VERSION CONTROL * GIT * SWIFT DATA * SPRITEKIT * OBJECT ORIENTED PROGRAMMING * DESIGN PATTERNS (MVVM)
 
 ## My Work
 # [Space News & Reports](https://apps.apple.com/in/app/space-news-reports/id6475634079)
