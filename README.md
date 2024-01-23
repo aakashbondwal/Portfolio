@@ -1,3 +1,6 @@
+<a href="" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:aakashbondwal4@gmail.com"><img src="https://img.shields.io/badge/Email-aakashbondwal4-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aakashbondwal" target="_blank"><img src="https://img.shields.io/badge/linkedin-aakashbondwal-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/aakash_bondwal" target="_blank"><img src="https://img.shields.io/badge/twitter-aakash_bondwal-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+
 ## About Me
 Hi! I'm a self-taught iOS Developer with expertise in Swift and SwiftUl, I am located in New Delhi, India. I specialize in creating intuitive user interfaces and efficient backend solutions that improve user interaction and enhance overall application performance. 
 
