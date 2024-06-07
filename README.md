@@ -10,6 +10,44 @@ My technical competencies encompass a diverse range of languages, frameworks, an
 * SWIFT * SWIFT UI * XCODE * COMBINE * WEATHER KIT * USER NOTIFICATIONS * API INTEGRATION * VERSION CONTROL * GIT * SWIFT DATA * SPRITEKIT * OBJECT ORIENTED PROGRAMMING * DESIGN PATTERNS (MVVM)
 
 ## My Work
+
+
+
+# [Ethos](https://apps.apple.com/in/app/diary-ease/id6475321698)
+[`📲 Available on the App Store`](https://apps.apple.com/in/app/diary-ease/id6475321698)
+
+Discover a new way to track and improve your emotional well-being with Ethos. Our app is designed to help you understand your moods, visualize your emotional patterns, and keep your personal journal all in one place.
+
+Key Features:
+
+iOS 16 Compatibility: Seamlessly integrate Ethos with the latest iOS 16 +  devices for an optimal experience.
+Secure Login: Log in to your account and access your data from any iOS device. Your information stays synchronized and up-to-date.
+Mood Selection: Easily select your mood from a variety of options to track how you’re feeling throughout the day.
+Mood Charts: Gain insights into your emotional well-being with detailed mood charts that visualize your mood trends over time.
+Customizable Themes: Personalize your app experience with a variety of themes to suit your style.
+Journal with Pictures: Create rich journal entries by adding pictures, making it easier to capture and remember important moments.
+Ethos is your companion for better mental health, helping you stay mindful of your emotions and understand yourself better. Whether you want to keep a daily diary, track your mood changes, or simply reflect on your day, our app is here to support you.
+
+Download Ethos now and start your journey to better emotional health today!
+
+## Sneak Peek 👀
+
+<p align="center">
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/EthosImages/1.png", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/EthosImages/2.png", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/EthosImages/3.png", width="200"/>
+  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/EthosImages/4.png", width="200"/>
+</p>
+
+
+**Tech Used**
+- Swift
+- SwiftUI
+- Firebase
+- Animations
+
+
+
 # [Space News & Reports](https://apps.apple.com/in/app/space-news-reports/id6475634079)
 [`📲 Available on the App Store`](https://apps.apple.com/in/app/space-news-reports/id6475634079)
 
@@ -55,29 +93,6 @@ Elevate your weather experience with Climate Eye, your window to the world's cli
 - SpriteKit
 - Push Notifications
 - API Integration
-- Animations
-
-
-# [Diary Ease](https://apps.apple.com/in/app/diary-ease/id6475321698)
-[`📲 Available on the App Store`](https://apps.apple.com/in/app/diary-ease/id6475321698)
-
-Experience the unparalleled ease of capturing your thoughts with DiaryEase, a fast and user-friendly diary app designed for seamless journaling. Experience the unparalleled ease of capturing your thoughts with DiaryEase, a fast and user-friendly diary app designed for seamless journaling. 
-
-## Sneak Peek 👀
-
-<p align="center">
-  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/DiaryEaseImage/1.png", width="200"/>
-  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/DiaryEaseImage/2.png", width="200"/>
-  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/DiaryEaseImage/3.png", width="200"/>
-  <img src="https://github.com/aakashbondwal/Portfolio/blob/main/Portfolio%20Images/DiaryEaseImage/4.png", width="200"/>
-</p>
-
-
-**Tech Used**
-- Swift
-- SwiftUI
-- AppLock
-- SwiftData
 - Animations
 
 
